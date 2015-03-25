@@ -1,3 +1,32 @@
+The Core Protocols V. 3.03
+
+Copyright (C) Jim McCarthy and Michele McCarthy
+
+The Core is distributed under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version. For exact terms see
+http://www.gnu.org/licenses/. The Core is considered as source code under that
+agreement. You are free to use and distribute this work or any derivations you
+care to make, provided you also distribute this source document in its
+entirety, including this paragraph.
+
+
+
+The Core Protocols: A Guide to Greatness, based on the work of Jim McCarthy
+and Michele McCarthy
+
+Copyright (C) Richard Kasperowski
+
+This book is distributed under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version. For exact terms see
+http://www.gnu.org/licenses/. This book is considered as source code under
+that agreement. You are free to use and distribute this work or any
+derivations you care to make, provided you also distribute this source
+document in its entirety, including this paragraph.
+
+
+
 GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -672,4 +701,3 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
-
